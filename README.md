@@ -1,4 +1,4 @@
-# AI Learning Assistant
+# LearningAId: AI Learning Assistant
 
 > Hệ thống hỗ trợ học tập thông minh, cho phép người dùng tải lên tài liệu bài giảng để AI tự động xử lý nội dung.
 
